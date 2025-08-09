@@ -37,7 +37,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/username/pet-translator.git
+git clone https://github.com/armaan-noob/README.git
 cd pet-translator
 Run
 
@@ -46,7 +46,7 @@ Copy
 Edit
 # Open the main HTML file in a browser
 open intro.html
-(Or simply double-click index.html)
+(Or simply double-click intro.html)
 
 Project Documentation
 For Software:
