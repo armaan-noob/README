@@ -2,8 +2,6 @@
 Basic Details
 Team Name: DUO INFUSION
 
-Team Members
-
 Team Lead: ARMAAN BIN KARIM
 
 Project Description
@@ -47,31 +45,28 @@ bash
 Copy
 Edit
 # Open the main HTML file in a browser
-open index.html
+open intro.html
 (Or simply double-click index.html)
 
 Project Documentation
 For Software:
 Screenshots
 
-The homepage with pet selection buttons and animations.
+https://drive.google.com/file/d/1KXgcTNLTvtuUvsH-3BRYYy0_LRqa2ydB/view?usp=drive_link
 
 
-Parallax background effect while scrolling.
+https://drive.google.com/file/d/1XF6W-jZ024XG-ue68hz2XzNwHolg107H/view?usp=drive_link
 
-
-About section explaining the project.
+https://drive.google.com/file/d/1TaxkI_zEl6YLvjEoRahJW4svzIqxYIEb/view?usp=drive_link
 
 Diagrams
 
 Simple flow: Select Pet → Load Pet Page → Show Translations.
 
 Project Demo
-Video: Demo Video Link
+Video: Demo Video Link:https://drive.google.com/file/d/1vjd-XT_6fnruQvlowtGeHjoKKzcFlI-8/view?usp=drive_link
 A short demo showing smooth animations, parallax effects, and pet selection.
 
-Team Contributions
-Armaan Bin Karim 
 
 Made with ❤️ at TinkerHub Useless Projects
 
